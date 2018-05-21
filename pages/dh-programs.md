@@ -14,7 +14,9 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - PhD Digital Arts & Humanities, University College Cork (UCC), Ireland
 - PhD in Digital Humanities, University College London, UK
 - [PhD in Digital Humanities, Institute for Digital Humanities at the University of Cologne, Germany](http://www.dh.uni-koeln.de)
+-  [PhD in Digital Humanities at the Trier Center for Digital Humanities](https://www.uni-trier.de/index.php?id=1138&L=2), Trier, Germany
 - [Doktoratsstudium "Digitale Geisteswissenschaften"](https://gewi.uni-graz.at/de/studieren/doktoratsstudium/) (Doctoral programme "Digital Humanities"), University of Graz, Austria
+
 
 ### North America
 - [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
